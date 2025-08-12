@@ -1,0 +1,10 @@
+.vscode/
+build
+out
+.DS_Store
+Thumbs.db
+*.class
+*.jar
+*.war
+*.ear
+*.log
