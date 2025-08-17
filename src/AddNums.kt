@@ -1,6 +1,7 @@
-fun main()
-{
-    println("Enter 2 numbers: ")
+// Kotlin program to enter 2 numbers and print the sum
+
+fun main() {
+    println("Enter 2 numbers:")
     val a = readLine()!!.toInt() // Press enter after inserting 1 number
     val b = readLine()!!.toInt()
     val c = a + b
