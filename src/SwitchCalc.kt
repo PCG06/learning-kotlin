@@ -14,7 +14,7 @@ fun main() {
             continue
         }
     
-        val res = when (op[0]) {
+        val res: Any = when (op[0]) {
             '+' -> a + b
             '-' -> a - b
             '*' -> a * b
