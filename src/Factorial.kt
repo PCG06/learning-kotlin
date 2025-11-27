@@ -5,7 +5,6 @@ fun main() {
     val num = readLine()!!.toInt()
     val facto = factorial(num)
     println("Factorial of $num is $facto")
-
 }
 
 fun factorial(num: Int): Long {
